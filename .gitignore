@@ -1,0 +1,28 @@
+
+# Compiled C executable
+*.exe
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated files
+data.txt
+result.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
